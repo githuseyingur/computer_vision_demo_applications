@@ -1,8 +1,7 @@
 ## FACE RECOGNITION WITH ARCFACE
 ###### WITH THE BEST SUCCESS RATE
 - Only a part of the MS1M data set was used.
-
-data set **[DATA SET](https://drive.google.com/file/d/1wjA5Gtx6EnH9W4m9gbFwzkBUWjceFqT3/view?usp=sharing)**.
+**[DATA SET](https://drive.google.com/file/d/1wjA5Gtx6EnH9W4m9gbFwzkBUWjceFqT3/view?usp=sharing)**.
   
 
 ### SOTA : the State Of The Art
