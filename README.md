@@ -11,5 +11,5 @@
 - conf.total_epoch = 20
 - conf.milestones = [12,16,18]
 
-lfw = gives an accuracy of 99.83%. (is the best rate ever obtained.)
+lfw = gives an accuracy of 99.83%. (is the best rate ever obtained.) <br>
 It takes 5 days with two v100(32GB).
