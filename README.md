@@ -1,4 +1,4 @@
-#### FACE RECOGNITION WITH ARCFACE
+### FACE RECOGNITION WITH ARCFACE
 ###### WITH THE BEST SUCCESS RATE
 - Only a part of the MS1M data set was used.
 
