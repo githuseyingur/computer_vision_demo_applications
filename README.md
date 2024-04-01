@@ -1,5 +1,5 @@
 ## FACE RECOGNITION WITH ARCFACE
-##### WITH THE BEST SUCCESS RATE
+
 - Only a part of the MS1M dataset was used : **[DATASET & FILES](https://drive.google.com/file/d/1wjA5Gtx6EnH9W4m9gbFwzkBUWjceFqT3/view?usp=sharing)**
 
   
