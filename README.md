@@ -1,4 +1,5 @@
 ## FACE RECOGNITION WITH ARCFACE
+This repo contains notes from the 'Bilgisayarlı Görü Uygulama Alanları(Computer Vision Application Areas)' course on BTK Akademi.
 
 - Only a part of the MS1M dataset was used : **[DATASET & FILES](https://drive.google.com/file/d/1wjA5Gtx6EnH9W4m9gbFwzkBUWjceFqT3/view?usp=sharing)**
 
