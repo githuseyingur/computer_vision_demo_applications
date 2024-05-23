@@ -1,5 +1,5 @@
 ## COMPUTER VISION DEMO APPLICATIONS
-This repo contains notes from the 'Bilgisayarlı Görü Uygulama Alanları(Computer Vision Applications)' course on BTK Akademi.<br>
+This repo contains notes from the **'Bilgisayarlı Görü Uygulama Alanları(Computer Vision Applications)'** course on **BTK Akademi**.<br>
 
 ### 1. FACE RECOGNITION WITH ARCFACE
 - Face Recognition Systems & Model Training
